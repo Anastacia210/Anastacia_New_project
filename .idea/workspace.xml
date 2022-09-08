@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3c64726-85c9-4067-88a9-215281b19344" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AiOe70iwbvdabuZLD7oVNurIO5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Anastacia_New_project22/html_22/newLes3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\Anastacia_New_project22\html_22\newLes3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c64726-85c9-4067-88a9-215281b19344" name="Changes" comment="" />
+      <created>1655489034446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655489034446</updated>
+      <workItem from="1655489035760" duration="4199000" />
+      <workItem from="1655562753263" duration="740000" />
+      <workItem from="1655565955675" duration="2590000" />
+      <workItem from="1655654389497" duration="4967000" />
+      <workItem from="1655822560269" duration="8613000" />
+      <workItem from="1657607487021" duration="18152000" />
+      <workItem from="1657789945674" duration="8794000" />
+      <workItem from="1657877741246" duration="11907000" />
+      <workItem from="1657900297324" duration="1173000" />
+      <workItem from="1658488861535" duration="8831000" />
+      <workItem from="1658834191591" duration="6430000" />
+      <workItem from="1661255632614" duration="27000" />
+      <workItem from="1661263888562" duration="1331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
